@@ -10,7 +10,7 @@ The author of this file cannot be held responsible or liable for any damages tha
     Administrator Permissions
 # ❓ How to Use?
 
-    Go to [Releases](https://github.com/anceltweaks/Ancels-Performance-Batch/releases/tag/Latest)
+    Go to Releases
     Download "AncelsPerformanceBatch.bat"
     Run "AncelsPerformanceBatch.bat" as Administrator
     Press the Number # for the Optimization you want, and click Enter
